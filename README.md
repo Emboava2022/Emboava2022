@@ -14,5 +14,5 @@ Diretrizes
 •	As cláusulas podem estar presentes em mais de uma query
 O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
-Nesse desafio criei as PK, FK, Queries para testes, reduzindo o modelo anterior do banco de dados, reduzindo o tamanho para melhor performance do banco. 
+Nesse desafio criei as PK, FK, Queries para testes, reduzindo o modelo anterior do banco de dados, reduzindo o tamanho para melhor performance do banco de dados. 
 O desafio está detalhado com os testes feitos. 
