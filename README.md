@@ -1,3 +1,5 @@
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
 ### Conhecimento em gestão e treinamento de pessoal, processo de admissão e demissão, escala, horas extras, folha de pagamento, endomarketing e gestão e redução de turnover. ✨
 ### Possuo vasta experiência no setor hoteleiro como auditor noturno. Amplos conhecimentos em processos de auditorias, reduzindo discrepâncias de lançamentos e gerenciamento financeiro. 
 
