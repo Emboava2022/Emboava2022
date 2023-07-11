@@ -8,6 +8,8 @@
 
 ![Emboava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emboava2022&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emboava2022)](https://github.com/anuraghazra/github-readme-stats)
+
 
 _________________________________________________________________________________________________________
 ### * Setembro 2022 - Participante do Bootcamp do centro de treinamento DIO, Database Experience - Bootcamp voltado para Banco de Dados utilizando MySQL | com exploração da abordagem de SGBDs | contextualização do cenário na área de banco de dados | modelagem de dados com EER - Enhanced Entity Relationship |Fundamento da modelagem de banco de dados | Explorando o modelo ER - Entidade Relacionamento | Arquitetura de Banco de Dados | EXplorando Queries com SQL | Criando queries como order by, having, select from para levantamento diagnóstico do banco de dados | Introdução ao banco de dados NoSQL com Mongo DB. 
