@@ -1,8 +1,8 @@
-Conhecimento em gestão e treinamento de pessoal, processo de admissão e demissão, escala, horas extras, folha de pagamento, endomarketing e gestão e redução de turnover. 
-Possuo vasta experiência no setor hoteleiro como auditor noturno. Amplos conhecimentos em processos de auditorias, reduzindo discrepâncias de lançamentos e gerenciamento financeiro. 
+### Conhecimento em gestão e treinamento de pessoal, processo de admissão e demissão, escala, horas extras, folha de pagamento, endomarketing e gestão e redução de turnover. ✨
+### Possuo vasta experiência no setor hoteleiro como auditor noturno. Amplos conhecimentos em processos de auditorias, reduzindo discrepâncias de lançamentos e gerenciamento financeiro. 
 
 _________________________________________________________________________________________________________
-* Setembro 2022 - Participante do Bootcamp do centro de treinamento DIO, Database Experience - Bootcamp voltado para Banco de Dados utilizando MySQL | com exploração da abordagem de SGBDs | contextualização do cenário na área de banco de dados | modelagem de dados com EER - Enhanced Entity Relationship |Fundamento da modelagem de banco de dados | Explorando o modelo ER - Entidade Relacionamento | Arquitetura de Banco de Dados | EXplorando Queries com SQL | Criando queries como order by, having, select from para levantamento diagnóstico do banco de dados | Introdução ao banco de dados NoSQL com Mongo DB. 
+### * Setembro 2022 - Participante do Bootcamp do centro de treinamento DIO, Database Experience - Bootcamp voltado para Banco de Dados utilizando MySQL | com exploração da abordagem de SGBDs | contextualização do cenário na área de banco de dados | modelagem de dados com EER - Enhanced Entity Relationship |Fundamento da modelagem de banco de dados | Explorando o modelo ER - Entidade Relacionamento | Arquitetura de Banco de Dados | EXplorando Queries com SQL | Criando queries como order by, having, select from para levantamento diagnóstico do banco de dados | Introdução ao banco de dados NoSQL com Mongo DB. 
 
 ___________________________________________________________________________________________________________
 
